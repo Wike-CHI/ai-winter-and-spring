@@ -6,6 +6,15 @@
 
 ---
 
+## [0.7.0] - 2026-07-04
+
+### 新增
+- 第七章《智能之春·ChatGPT（2022）》发布——全书情绪高潮：2022-11-30 那一刻，5 天破百万，2 个月破一亿。
+- 核证附录发布。史料库新增 CHATGPT / GPT4 / AGENTSEED 三个主题。
+- 关键修正：AutoGPT 日期为 3/30（非 3/27）；"5 天百万"来源是 Altman 推文（非 SimilarWeb）；GPT-4 律师考试"前 10%"补充后续独立学术修正（约 45th-68th percentile）。
+- 为第八章 Agent 狂热完整铺路：Plugins → Function Calling → AutoGPT/BabyAGI → MCP → Building Effective Agents。
+- 第二幕（连接主义复活与智能之春，5-7 章）完结。
+
 ## [0.6.0] - 2026-07-03
 
 ### 新增
