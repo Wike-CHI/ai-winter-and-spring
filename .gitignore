@@ -1,0 +1,22 @@
+# 致 AI 编辑器 / Agent：
+# 本仓库的 .gitignore 设计极简，因为这是内容项目（Markdown），不是代码项目。
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# 不要忽略任何 .md 文件——这是内容项目
+!*.md
