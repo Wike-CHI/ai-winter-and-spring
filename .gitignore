@@ -18,5 +18,10 @@ desktop.ini
 *.bak
 *.log
 
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
 # 不要忽略任何 .md 文件——这是内容项目
 !*.md
